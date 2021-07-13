@@ -1,0 +1,66 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 25, 2020, 12:37:15 AM
+    Author     : type001
+*/
+
+#DashTitle{
+    background-color: #1E90FF;
+    height: 60px;
+    text-align: center;
+    margin: 0px;
+}
+h1{
+    background-color: #1E90FF;
+    height: 40px;
+    text-align: center;                
+}
+#login{
+    margin-left: 38%;
+}
+
+#menu{
+    margin: 15px;
+}
+
+#loginForm{
+    border-style: solid;
+    border-width:3px;
+    border-color: #4169E1;
+    text-align: center;               
+}
+#registerForm{
+    border-style: solid;
+    border-width:3px;
+    border-color: #4169E1;
+    text-align: center;               
+}
+#result{
+    border-collapse: collapse;
+    margin: auto;    
+}
+th, td{
+    padding: 10px;
+}
+table.result{
+    border-spacing: 20px;
+}
+.button-container{
+    text-align: center;
+}
+.button-container form,
+.button-container form div {
+    display: inline;
+}
+
+.button-container button {
+    display: inline;
+    vertical-align: middle;
+}
+#noBorder tr{
+    border: 0;
+}
